@@ -4,4 +4,5 @@ def display_rainbow(colors)
   print "B: #{colors[4]}, I: #{colors[5]}, V: #{colors[6]}"
 end
 
+colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
 puts display_rainbow
